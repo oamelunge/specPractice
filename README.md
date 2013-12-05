@@ -1,0 +1,4 @@
+specPractice
+============
+
+curso spec
